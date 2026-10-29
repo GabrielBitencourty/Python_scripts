@@ -1,6 +1,6 @@
 # 🎓 Atividade Prática: Análise de Códigos em Python
 
-Este repositório foi criado para armazenar e organizar os scripts desenvolvidos durante a **Aula 03** da minha faculdade. O objetivo principal desta atividade é analisar a lógica de programação, identificar os elementos fundamentais do Python e propor melhorias profissionais em cenários reais.
+Este repositório foi criado para armazenar e organizar os scripts desenvolvidos durante as aulas de Paradigmas de Llinguagen de programação em python da minha faculdade. O objetivo principal desta atividade é analisar a lógica de programação, identificar os elementos fundamentais do Python e propor melhorias profissionais em cenários reais.
 
 ---
 
